@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itemiiya.github.io/Cun/sitemap_index.txt
+Sitemap: https://itemiiya.github.io/Dav/sitemap_index.txt
+Sitemap: https://itemiiya.github.io/nBE/sitemap_index.txt
+Sitemap: https://itemiiya.github.io/qbp/sitemap_index.txt
